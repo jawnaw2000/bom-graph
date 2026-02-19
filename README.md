@@ -22,7 +22,7 @@ Eventually connect:
 
 Book of Mormon
 
-Bible
+Bible 
 
 General Conference corpus
 
