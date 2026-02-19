@@ -1,5 +1,6 @@
 # bom-graph
 A knowledge graph of the Book of Mormon
+
 Book of Mormon Graph Explorer
 
 An experimental semantic knowledge graph of the Book of Mormon, built using an ontology-first approach and designed to evolve toward a full GraphRAG system.
